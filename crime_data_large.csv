@@ -1,0 +1,105 @@
+crime_description,severity,severity_label
+"Shoplifting from retail store under $50",10,Low
+"Trespassing on private property",15,Low
+"Public intoxication and disorderly conduct",20,Low
+"Vandalism causing minor property damage",25,Low
+"Graffiti on public building",20,Low
+"Disturbing the peace with loud noise",15,Low
+"Jaywalking in busy intersection",5,Low
+"Littering in public park",10,Low
+"Underage drinking at private party",25,Low
+"Parking in handicapped space without permit",15,Low
+"Petty theft under $100",20,Low
+"Simple assault without injury",35,Medium
+"Retail theft between $100-500",30,Medium
+"Possession of small amount of marijuana",25,Low
+"Driving with suspended license",30,Medium
+"Check fraud under $500",40,Medium
+"Credit card fraud under $1000",45,Medium
+"Embezzlement under $5000",50,Medium
+"Burglary of unoccupied storage unit",45,Medium
+"Auto theft of older model vehicle",55,High
+"Residential burglary while occupants away",60,High
+"Arson of abandoned building",65,High
+"Assault with minor injuries",55,High
+"Drug possession with intent to distribute",70,High
+"Stalking and harassment",60,High
+"Identity theft affecting multiple victims",65,High
+"Money laundering scheme",75,High
+"Armed robbery with no injuries",80,Critical
+"Carjacking without weapon",75,High
+"Home invasion robbery",85,Critical
+"Kidnapping and unlawful imprisonment",90,Critical
+"Sexual assault with weapon",95,Critical
+"Human trafficking operation",95,Critical
+"Terrorist threat making bomb threat",90,Critical
+"Attempted murder with deadly weapon",95,Critical
+"Drive-by shooting with injuries",90,Critical
+"Gang-related shooting incident",85,Critical
+"Police officer shot in line of duty",99,Critical
+"School shooting with multiple casualties",99,Critical
+"Terrorist bombing causing mass casualties",99,Critical
+"Cyber attack on critical infrastructure",85,Critical
+"Large-scale drug trafficking operation",80,Critical
+"Organized retail theft ring",70,High
+"Corporate fraud costing millions",75,High
+"Public corruption involving elected official",80,Critical
+"Election interference and voter fraud",85,Critical
+"Environmental crime causing major pollution",70,High
+"Healthcare fraud affecting elderly patients",65,High
+"Insurance fraud with staged accidents",60,High
+"Bank robbery with hostages",95,Critical
+"Prison escape with violence",90,Critical
+"Child pornography distribution",85,Critical
+"Animal cruelty involving organized fighting",65,High
+"Hate crime with physical violence",80,Critical
+"Domestic violence causing serious injury",75,High
+"Elder abuse in care facility",70,High
+"Disability benefit fraud",50,Medium
+"Tax evasion on large scale",65,High
+"Counterfeiting currency",60,High
+"Arson for insurance fraud",75,High
+"Stolen vehicle trafficking",70,High
+"Art theft from museum",65,High
+"Archaeological site looting",60,High
+"Wildlife trafficking endangered species",70,High
+"Maritime piracy attack",85,Critical
+"Airplane hijacking attempt",95,Critical
+"Nuclear material smuggling",99,Critical
+"Biological weapon threat",99,Critical
+"Chemical attack on public space",99,Critical
+"Cyber terrorism targeting government",95,Critical
+"Critical infrastructure sabotage",90,Critical
+"Assassination of public figure",99,Critical
+"Genocide and crimes against humanity",99,Critical
+"War crimes during conflict",99,Critical
+"Organ harvesting trafficking",95,Critical
+"Serial killings spanning multiple states",99,Critical
+"Mass poisoning incident",90,Critical
+"Hostage situation lasting multiple days",85,Critical
+"Torture and war crimes",95,Critical
+"Espionage against national security",90,Critical
+"Military equipment theft",80,Critical
+"Border smuggling of weapons",85,Critical
+"Immigration document fraud",60,High
+"Passport and visa forgery",65,High
+"International art forgery ring",70,High
+"Sports match fixing scandal",55,High
+"Olympic doping conspiracy",60,High
+"Professional license fraud",50,Medium
+"Academic credential forgery",45,Medium
+"Scientific research data fabrication",55,High
+"Medical malpractice cover-up",70,High
+"Pharmaceutical drug counterfeiting",75,High
+"Unlicensed medical practice",65,High
+"Food safety violation causing illness",60,High
+"Product tampering endangering public",75,High
+"Workplace safety violation causing death",70,High
+"Environmental disaster due to negligence",80,Critical
+"Oil spill damaging ecosystem",75,High
+"Illegal logging in protected forest",65,High
+"Endangered species poaching",70,High
+"Illegal fishing in protected waters",55,High
+"Water contamination affecting community",70,High
+"Air pollution violating clean air act",65,High
+"Hazardous waste dumping",75,High
